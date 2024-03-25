@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on my portfolio in general and a philosophy's site
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on gamification and educational projects
+- 📫 How to reach me: @gabrielgalindo@protonmail.com
 
 
