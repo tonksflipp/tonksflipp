@@ -1,9 +1,9 @@
-### Hi there, I'm Gab 👋
+### Hi there, I'm tonksflipp 👋
 
 
 
 
 - 👯 I’m looking to collaborate on gamification and educational projects
-- 📫 How to reach me: @gabrielgalindo@protonmail.com
+- 📫 How to reach me: tonksflipp@gmail.com
 
 
