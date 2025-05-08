@@ -10,4 +10,11 @@ I’m a passionate developer focused on gamification, educational projects, and 
 - **API and backend development** for collaborative platforms or media apps
 - **Hardware projects** like peripherals for games or IoT-based devices
 
+  🔧 **Skills**:
+- **Languages**: JavaScript, HTML, CSS, C#
+- **Game Engine**: Unity 
+- **Tools**: Git, GitHub
+- **Development Areas**: Web development, basic game development, and version control
+
+
 📫 How to reach me: [tonksflipp@gmail.com](mailto:tonksflipp@gmail.com)
