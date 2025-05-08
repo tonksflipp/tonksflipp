@@ -11,7 +11,7 @@ I’m a passionate developer focused on gamification, educational projects, and 
 - Hardware projects, such as peripherals for games or IoT-based devices
 
 🔧 **Skills**:
-- **Languages**: JavaScript, HTML, CSS, C#
+- **Languages**: JavaScript, C#
 - **Game Engine**: Unity 
 - **Tools**: Git, GitHub
 - **Development Areas**: Web development, basic game development, and version control
