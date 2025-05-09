@@ -14,7 +14,7 @@ I’m a passionate developer focused on gamification, educational projects, and 
 - **Languages**: JavaScript, C#
 - **Game Engine**: Unity 
 - **Tools**: Git, GitHub
-- **Development Areas**: Web development, basic game development, and version control
+- **Development Areas**: Web development, game development
 
 
 📫 How to reach me: [tonksflipp@gmail.com](mailto:tonksflipp@gmail.com)
