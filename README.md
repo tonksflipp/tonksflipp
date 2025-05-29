@@ -2,7 +2,7 @@
 
 I’m a passionate developer focused on gamification, educational projects, and interactive digital experiences. Currently, I'm working on various projects that combine technology, learning, and fun. I'm also actively pursuing the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science), further enhancing my skills in computer science.
 
-👯 I’m looking to collaborate on:
+ I’m looking to collaborate on:
 - Gamification and game design projects
 - Educational technology and interactive learning tools
 - Web development, particularly building interactive websites and applications 
