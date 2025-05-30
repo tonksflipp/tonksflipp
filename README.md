@@ -1,4 +1,4 @@
-# Hi there, I'm **tonksflipp** 👋
+# Hello, I'm **tonksflipp** 
 
 I’m a passionate developer focused on gamification, educational projects, and interactive digital experiences. Currently, I'm working on various projects that combine technology, learning, and fun. I'm also actively pursuing the [OSSU Computer Science Curriculum](https://github.com/ossu/computer-science), further enhancing my skills in computer science.
 
