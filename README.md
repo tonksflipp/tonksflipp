@@ -7,7 +7,6 @@ I’m a passionate developer focused on gamification, educational projects, and 
 - Educational technology and interactive learning tools
 - Web development, particularly building interactive websites and applications 
 - Game development (engines, simulations, and more)
-- API and backend development for collaborative platforms or media apps
 - Hardware projects, such as peripherals for games or IoT-based devices
 
 🔧 **Skills**:
