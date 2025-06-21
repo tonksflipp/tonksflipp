@@ -16,3 +16,5 @@ I’m a passionate developer focused on gamification, educational projects, and 
 - **Development Areas**: Web development, game development
 
 📫 How to reach me: [tonksflipp@gmail.com](mailto:tonksflipp@gmail.com)
+
+
